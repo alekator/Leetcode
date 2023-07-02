@@ -21,7 +21,7 @@ Constraints:
 5. 1 <= m + n <= 2000
 6. -106 <= nums1[i], nums2[i] <= 106
 
-Answer(just easy):
+Answer (just easy):
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         l = nums1 + nums2
