@@ -21,7 +21,7 @@ Constraints:
 2. 0 <= Node.val <= 9
 3. It is guaranteed that the list represents a number that does not have leading zeros.
 
-Answer:
+Answer:(Nodes is good)
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
