@@ -22,7 +22,7 @@ Constraints:
 1. 0 <= s.length <= 5 * 104
 2. s consists of English letters, digits, symbols and spaces.
 
-Answer (the easiest possible solution without using hash map):
+Answer(the easiest possible solution without using hash map):
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         if not s:
