@@ -13,7 +13,6 @@
 # Explanation: There is no common prefix among the input strings.
 
 # Answer:
-
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         ans=""
